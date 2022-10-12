@@ -1,3 +1,8 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width:40%; height:100%" />
+</div>
+
+
 ### <div align="center">I'm Sarthak, a quick learner 👨‍💻 </div>  
 ----
 <div align="center">
