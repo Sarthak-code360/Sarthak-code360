@@ -1,4 +1,4 @@
-### <div align="center">I'm Sarthak, a full-time python developer 👨‍💻 </div>  
+### <div align="center">I'm Sarthak, a quick learner 👨‍💻 </div>  
 ----
 <div align="center">
 <a href="https://github.com/Sarthak-code360" target="_blank">
