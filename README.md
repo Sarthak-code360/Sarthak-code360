@@ -3,7 +3,7 @@
 </div>
 
 
-### <div align="center">I'm Sarthak, a quick learner 👨‍💻 </div>  
+### <div align="center">I'm Sarthak, a Developer 👨‍💻 </div>  
 ----
 <div align="center">
 <a href="https://github.com/Sarthak-code360" target="_blank">
