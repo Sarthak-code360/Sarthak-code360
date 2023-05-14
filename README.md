@@ -28,6 +28,6 @@
 
 - 😄 Pronouns: He/Him
     
-## My Github stats :sparkles:
+## My Github status :sparkles:
 <img src='https://github-readme-stats.vercel.app/api?username=Sarthak-code360&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515' />  
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=Sarthak-code360&theme=dark' />
