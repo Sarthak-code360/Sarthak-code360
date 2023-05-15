@@ -18,7 +18,7 @@
 </div>  
 <img src="https://user-images.githubusercontent.com/76658675/179303048-116efae8-70ea-4cad-b901-e8fda51a33c2.png" align="right" style="width:45%; height:300px" />
 
-- 🔭 I’m currently working on [DSA](https://www.geeksforgeeks.org/data-structures/) and [OS](https://www.geeksforgeeks.org/operating-systems/?ref=lbp)
+- 🔭 I’m currently working on [DSA](https://www.geeksforgeeks.org/data-structures/) and [Database](https://www.javatpoint.com/what-is-database)
   
 - 🌱 I’m currently learning Open Source, Data structure and algorithms and Mathematical optimization 🧮
  
