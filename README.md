@@ -18,13 +18,13 @@
 </div>  
 <img src="https://user-images.githubusercontent.com/76658675/179303048-116efae8-70ea-4cad-b901-e8fda51a33c2.png" align="right" style="width:45%; height:300px" />
 
-- 🔭 I’m currently working on [DSA](https://www.geeksforgeeks.org/data-structures/) and [Database](https://www.javatpoint.com/what-is-database)
+- 🔭 I’m currently working on Full-stack development
   
-- 🌱 I’m currently learning Open Source, Data structure and algorithms and Mathematical optimization 🧮
+- 🌱 I’m currently learning DSA and Problem Optimazation🧮
  
-- 👯 I’m looking to collaborate on projects and researches based on software development and machine learning
+- 🧑🏻‍💻 I’m looking to collaborate on projects and researches based on software development and machine learning
 
-- ❓ Ask me about google cloud & networking
+- ❓ Ask me about DSA, GCP and Networking
 
 - 😄 Pronouns: He/Him
     
