@@ -16,7 +16,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-<img src="![image](https://github.com/Sarthak-code360/Sarthak-code360/assets/74900672/e7260db7-0adf-45d5-8612-0c6188b2f30e)" align="right" style="width:45%; height:300px" />
+<img src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw11gM3C5aWZeuHlnHQQVVRu&ust=1685943528968000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPD1sZvzqP8CFQAAAAAdAAAAABAy" align="right" style="width:45%; height:300px" />
 
 - 🔭 I’m currently working on Full-stack development
   
