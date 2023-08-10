@@ -1,9 +1,11 @@
+
 <h1 align="center">Hi 👋, I'm Sarthak Mishra</h1>
-<h3 align="center">I'm a passionate full-stack software developer with a knack for creating efficient and scalable web applications. My goal is to combine functionality with aesthetics to deliver seamless user experiences. I thrive in collaborative environments and enjoy tackling complex problems.</h3>
+<h3 align="center">I'm a passionate full-stack software developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak-code360&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak-code360" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthak-code360" alt="sarthak-code360" /></a> </p>
+<img src="https://user-images.githubusercontent.com/76658675/179303048-116efae8-70ea-4cad-b901-e8fda51a33c2.png" align="right" alt="Profile Image" width="45%" height="300px" />
+
 
 - 🔭 I’m currently working on **Full-stack development.**
 
@@ -18,6 +20,7 @@
 - 🌟 Achievements **HackerRank 5-star and certified problem solver, Cisco Data Science Certified, Salesforce Certified by SmartBridge**
 
 - 📫 How to reach me **sarthakmishra3032002@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
