@@ -11,11 +11,11 @@
 
 - 🌱 I believe in continuous learning **to stay up-to-date with the ever-evolving tech landscape. Currently, I'm diving deeper into containerization and exploring Kubernetes.**
 
-- 👯 I'm always open to interesting discussions and collaboration opportunities. **Feel free to reach out to me on Portfolio. Looking forward to connecting with fellow developers and innovators!**
+- 👯 I'm always open to interesting discussions and collaboration opportunities. **Feel free to reach out to me on [Portfolio](https://sarthaksportfolio.netlify.app/). Looking forward to connecting with fellow developers and innovators!**
 
 - 💼 Professional Experience - **Software Developer Intern at Innovation Incubator - Developing and maintaining web applications, collaborating with cross-functional teams, and contributing to architectural decisions.**
 
-- 👨‍💻 All of my projects are available at [https://sarthaksportfolio.netlify.app/](https://sarthaksportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at my [Website](https://sarthaksportfolio.netlify.app/)
 
 - 🌟 Achievements **HackerRank 5-star and certified problem solver, Cisco Data Science Certified, Salesforce Certified by SmartBridge**
 
