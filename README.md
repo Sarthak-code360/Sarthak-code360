@@ -19,7 +19,7 @@
 
 - 🌟 Achievements **HackerRank 5-star and certified problem solver, Cisco Data Science Certified, Salesforce Certified by SmartBridge**
 
-- 📫 How to reach me **sarthakmishra3032002@gmail.com**
+- 📫 To contact you can [mail](https://sarthaksportfolio.netlify.app/) me.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
