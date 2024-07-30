@@ -15,7 +15,7 @@
 
 - 💼 Professional Experience - **Currently working for a Mazout as a Junior Software Engineer. Also have worked as Software Developer Intern at Innovation Incubator. You can check my works in repository section.**
 
-- 👨‍💻 All of my projects are available at [my Portfolio](https://sarthaksportfolio.netlify.app/).
+- 👨‍💻 All of my projects are available at my [Portfolio](https://sarthaksportfolio.netlify.app/).
 
 - 🌟 Achievements **HackerRank 5-star and certified problem solver, Cisco Data Science Certified, Salesforce Certified by SmartBridge**
 
