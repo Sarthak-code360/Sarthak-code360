@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on an EV monitoring **React-Native** application.
 
-- 🌱 I believe in **continuous improvement 𝚒𝚜 𝚋𝚎𝚝𝚝𝚎𝚛 𝚝𝚑𝚊𝚗 𝚍𝚎𝚕𝚊𝚢𝚎𝚍 perfection**✌.
+- 🌱 I believe that **c𝚘𝚗𝚝𝚒𝚗𝚘𝚞𝚜 𝚒𝚖𝚙𝚛𝚘𝚟𝚎𝚖𝚎𝚗𝚝 𝚒𝚜 𝚋𝚎𝚝𝚝𝚎𝚛 𝚝𝚑𝚊𝚗 𝚍𝚎𝚕𝚊𝚢𝚎𝚍 perfection**✌.
 
 - 👯 I'm always open to interesting discussions and collaboration opportunities. **Feel free to reach out to me on Portfolio. Looking forward to connecting with fellow developers and innovators!**
 
