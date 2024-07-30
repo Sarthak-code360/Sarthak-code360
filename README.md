@@ -1,5 +1,8 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://ww38.rishavchanda.io/)
+
 <h1 align="center">Hi 👋, I'm Sarthak Mishra</h1>
 <h3 align="center">I'm a passionate software developer with a knack for creating efficient and scalable applications. My goal is to combine functionality with aesthetics to deliver seamless user experiences. I thrive in collaborative environments and enjoy tackling complex problems.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak-code360&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak-code360" /> </p>
 
