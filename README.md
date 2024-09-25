@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak-code360&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak-code360" /> </p>
 
 
-- 🔭 I’m currently working on an EV monitoring **React-Native** application.
+- 🔭 I’m currently working on an EV monitoring **gRPC** server.
 
 - 🌱 I believe that **c𝚘𝚗𝚝𝚒𝚗𝚘𝚞𝚜 𝚒𝚖𝚙𝚛𝚘𝚟𝚎𝚖𝚎𝚗𝚝 𝚒𝚜 𝚋𝚎𝚝𝚝𝚎𝚛 𝚝𝚑𝚊𝚗 𝚍𝚎𝚕𝚊𝚢𝚎𝚍 perfection** ✌.
 
