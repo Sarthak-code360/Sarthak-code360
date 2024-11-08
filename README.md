@@ -13,7 +13,7 @@
 
 - 👯 I'm always open to interesting discussions and collaboration opportunities. **Feel free to reach out to me on Portfolio. Looking forward to connecting with fellow developers and innovators!**
 
-- 💼 Professional Experience - **Currently working for a Mazout as a Junior Software Engineer. Also have worked as Software Developer Intern at Innovation Incubator. You can check my works in repository section.**
+- 💼 Professional Experience - **Currently working for a Mazout as a Junior Software Engineer. Also have worked as a Software Developer Intern at Innovation Incubator. You can check my works in the repository section.**
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://sarthaksportfolio.netlify.app/).
 
@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthak-code360&show_icons=true&locale=en" alt="sarthak-code360" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-code360&" alt="sarthak-code360" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-code360" alt="sarthak-code360" /></p>
