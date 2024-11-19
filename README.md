@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak-code360&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak-code360" /> </p>
 
-💻 I'm an SDE at a startup developing a **software-driven EV motor controller**. I specialize in building **full-stack solutions** for production using **TypeScript, JavaScript, Node.js, ReactJS, and HTML/CSS**. My work involves integrating **AWS tools like EC2** and hardware components such as **Arduino, SIMCom modules, motion sensors, and braking systems** to create a robust EV monitoring system.
+💻 I'm an SDE at Mazout a startup developing a **software-driven EV motor controller**. I specialize in building **full-stack solutions** for production using **TypeScript, JavaScript, Node.js, ReactJS, and HTML/CSS**. My work involves integrating **AWS tools like EC2** and hardware components such as **Arduino, SIMCom modules, motion sensors, and braking systems** to create a robust EV monitoring system.
 
 🌱 **I believe that continuous improvement is better than delayed success**.
 
