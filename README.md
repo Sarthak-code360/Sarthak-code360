@@ -1,25 +1,20 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://ww38.rishavchanda.io/)
 
-<h1 align="center">Hi 👋, I'm Sarthak !</h1>
-<h3 align="center">I'm a passionate software developer with a knack for creating efficient and scalable applications. My goal is to combine functionality with aesthetics to deliver seamless user experiences. I thrive in collaborative environments and enjoy tackling complex problems.</h3>
+<h1 align="center">Hi there, I'm Sarthak 👋</h1>
+<h3 align="center">Indian software enthusiast with a passion for working on products that drive strong value to its users.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak-code360&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak-code360" /> </p>
 
 
-- 🔭 I’m currently working on an EV monitoring **gRPC** server.
+💻 I'm an SDE at a startup developing a **software-driven EV motor controller**. I specialize in building **full-stack solutions** for production using TypeScript, JavaScript, Node.js, ReactJS, and HTML/CSS. My work involves integrating AWS tools like EC2 and hardware components such as Arduino, SIMCom modules, motion sensors, and braking systems to create a robust EV monitoring system.
 
-- 🌱 I believe that **c𝚘𝚗𝚝𝚒𝚗𝚘𝚞𝚜 𝚒𝚖𝚙𝚛𝚘𝚟𝚎𝚖𝚎𝚗𝚝 𝚒𝚜 𝚋𝚎𝚝𝚝𝚎𝚛 𝚝𝚑𝚊𝚗 𝚍𝚎𝚕𝚊𝚢𝚎𝚍 perfection** ✌.
+🌱 I believe that **continuous improvement is better than delayed success**.
 
-- 👯 I'm always open to interesting discussions and collaboration opportunities. **Feel free to reach out to me on Portfolio. Looking forward to connecting with fellow developers and innovators!**
+📚 In the past, I've interned at tech startups like **Innovation Incubator** and **Code Clause**, where I honed my skills in developing and testing software features for their flagship products. My focus was primarily on mobile technology, utilizing my expertise in **React Native, TypeScript, and Expo**.
 
-- 💼 Professional Experience - **Currently working for a Mazout as a Junior Software Engineer. Also have worked as a Software Developer Intern at Innovation Incubator. You can check my works in the repository section.**
+🌟 All of my projects, including detailed case studies and contributions, are available for viewing at my [Portfolio](https://sarthaksportfolio.netlify.app/). Explore my work to see how I apply cutting-edge technologies to solve real-world problems and drive innovation.
 
-- 👨‍💻 All of my projects are available at my [Portfolio](https://sarthaksportfolio.netlify.app/).
-
-- 🌟 Achievements **HackerRank 5-star and certified problem solver, Cisco Data Science Certified, Salesforce Certified by SmartBridge**
-
-- 📫 To contact you can mail me here: sarthakmishra3032002@gmail.com.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
