@@ -30,6 +30,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthak-code360&show_icons=true&locale=en&layout=compact" alt="sarthak-code360" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthak-code360&show_icons=true&locale=en" alt="sarthak-code360" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-code360" alt="sarthak-code360" /></p>
