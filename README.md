@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://dev.to/sarthak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sarthak" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sarthak-mishra-ba32501bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak-mishra-ba32501bb" height="30" width="40" /></a>
-<a href="https://instagram.com/t_h_e____d_u_d_e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t_h_e____d_u_d_e" height="30" width="40" /></a>
+<a href="[https://instagram.com/t_h_e____d_u_d_e](https://www.instagram.com/t_h_e__d_u_d_e/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t_h_e____d_u_d_e" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sarthakmishra301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sarthakmishra301" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sarthak_mishra_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarthak_mishra_" height="30" width="40" /></a>
 </p>
