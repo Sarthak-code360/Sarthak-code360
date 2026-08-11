@@ -1,3 +1,96 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1321,100:00C896&height=230&section=header&text=Sarthak%20Mishra&fontSize=52&fontColor=F5F7FA&fontAlignY=38&animation=fadeIn&desc=Software%20Development%20Engineer%20%40%20Mazout&descAlignY=56&descSize=19&descColor=00E5A0" width="100%"/>
+
+<a href="https://sarthaksportfolio.netlify.app/"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=00E5A0&center=true&vCenter=true&width=650&lines=Building+software-driven+EV+motor+controllers;TypeScript+%C2%B7+Node.js+%C2%B7+React+%C2%B7+AWS;Bridging+firmware%2C+cloud+%26+web+interfaces;Ex-Innovation+Incubator+%C2%B7+Ex-Code+Clause" alt="Typing SVG"/></a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=sarthak-code360&label=Profile+Views&color=0D1321&style=flat-square" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/sarthak-code360?label=Followers&style=flat-square&color=0D1321" alt="followers"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1321,100:00C896&height=3" width="100%"/>
+
+## ⚡ System Status
+
+<div align="center">
+
+| | |
+|:--|:--|
+| **Role** | SDE @ [Mazout](https://mazout.com) — building a software-driven EV motor controller |
+| **Core stack** | TypeScript, JavaScript, Node.js, React, HTML/CSS |
+| **Cloud** | AWS (EC2) for production infrastructure |
+| **Hardware layer** | Arduino, SIMCom modules, motion sensors, braking systems |
+| **Past stops** | Innovation Incubator & Code Clause — React Native, TypeScript, Expo |
+| **Principle** | Continuous, steady improvement beats a delayed "perfect" release |
+| **Off the clock** | Traveling — new places, new perspectives |
+
+</div>
+
+Full case studies and shipped work live on my **[portfolio](https://sarthaksportfolio.netlify.app/)**.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1321,100:00C896&height=3" width="100%"/>
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<img src="https://img.shields.io/badge/-TypeScript-0D1321?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/> <img src="https://img.shields.io/badge/-JavaScript-0D1321?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/> <img src="https://img.shields.io/badge/-Python-0D1321?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/> <img src="https://img.shields.io/badge/-C++-0D1321?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++"/> <img src="https://img.shields.io/badge/-HTML5-0D1321?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/> <img src="https://img.shields.io/badge/-CSS3-0D1321?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
+
+**Frontend**
+
+<img src="https://img.shields.io/badge/-React-0D1321?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/-React_Native-0D1321?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/> <img src="https://img.shields.io/badge/-Angular-0D1321?style=for-the-badge&logo=angular&logoColor=DD0031" alt="Angular"/> <img src="https://img.shields.io/badge/-Tailwind_CSS-0D1321?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind"/> <img src="https://img.shields.io/badge/-Bootstrap-0D1321?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="Bootstrap"/> <img src="https://img.shields.io/badge/-Flutter-0D1321?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter"/>
+
+**Backend & Data**
+
+<img src="https://img.shields.io/badge/-Node.js-0D1321?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js"/> <img src="https://img.shields.io/badge/-Express-0D1321?style=for-the-badge&logo=express&logoColor=F5F7FA" alt="Express"/> <img src="https://img.shields.io/badge/-Flask-0D1321?style=for-the-badge&logo=flask&logoColor=F5F7FA" alt="Flask"/> <img src="https://img.shields.io/badge/-MongoDB-0D1321?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"/> <img src="https://img.shields.io/badge/-MySQL-0D1321?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"/> <img src="https://img.shields.io/badge/-Firebase-0D1321?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase"/> <img src="https://img.shields.io/badge/-Appwrite-0D1321?style=for-the-badge&logo=appwrite&logoColor=FD366E" alt="Appwrite"/>
+
+**Cloud, DevOps & Tools**
+
+<img src="https://img.shields.io/badge/-AWS-0D1321?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS"/> <img src="https://img.shields.io/badge/-Google_Cloud-0D1321?style=for-the-badge&logo=googlecloud&logoColor=4285F4" alt="GCP"/> <img src="https://img.shields.io/badge/-Docker-0D1321?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/> <img src="https://img.shields.io/badge/-Heroku-0D1321?style=for-the-badge&logo=heroku&logoColor=430098" alt="Heroku"/> <img src="https://img.shields.io/badge/-Git-0D1321?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/> <img src="https://img.shields.io/badge/-Linux-0D1321?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/> <img src="https://img.shields.io/badge/-Figma-0D1321?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma"/>
+
+**Embedded & EV Hardware**
+
+<img src="https://img.shields.io/badge/-Arduino-0D1321?style=for-the-badge&logo=arduino&logoColor=00979D" alt="Arduino"/> <img src="https://img.shields.io/badge/-SIMCom_GSM%2FGPS-0D1321?style=for-the-badge&logo=zigbee&logoColor=00E5A0" alt="SIMCom"/> <img src="https://img.shields.io/badge/-Motion_Sensors-0D1321?style=for-the-badge&logo=nginx&logoColor=00E5A0" alt="Motion Sensors"/> <img src="https://img.shields.io/badge/-Braking_Systems-0D1321?style=for-the-badge&logo=speedtest&logoColor=00E5A0" alt="Braking Systems"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1321,100:00C896&height=3" width="100%"/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sarthak-code360&show_icons=true&count_private=true&hide_border=true&bg_color=0D1321&title_color=00E5A0&text_color=F5F7FA&icon_color=FFB800" alt="sarthak-code360 stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-code360&layout=compact&hide_border=true&bg_color=0D1321&title_color=00E5A0&text_color=F5F7FA" alt="top languages"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-code360&hide_border=true&background=0D1321&ring=00E5A0&fire=FFB800&currStreakLabel=00E5A0&sideLabels=F5F7FA&currStreakNum=F5F7FA&sideNums=F5F7FA&dates=8892B0" alt="streak stats" width="70%"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1321,100:00C896&height=3" width="100%"/>
+
+## 🔗 Connect
+
+<div align="center">
+
+<a href="https://dev.to/sarthak" target="_blank"><img src="https://img.shields.io/badge/-Dev.to-0D1321?style=for-the-badge&logo=devdotto&logoColor=F5F7FA" alt="Dev.to"/></a>
+<a href="https://linkedin.com/in/sarthak-mishra-ba32501bb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1321?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/t_h_e__d_u_d_e/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1321?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
+<a href="https://www.hackerrank.com/sarthakmishra301" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-0D1321?style=for-the-badge&logo=hackerrank&logoColor=00EA64" alt="HackerRank"/></a>
+<a href="https://leetcode.com/sarthak_mishra_" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-0D1321?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1321,100:00C896&height=100&section=footer" width="100%"/>
+
+
+
+
+
+
+
+
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://ww38.rishavchanda.io/)
 
 <h1 align="center">Hi there, I'm Sarthak 👋</h1>
