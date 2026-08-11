@@ -19,13 +19,12 @@
 
 | | |
 |:--|:--|
-| **Role** | Full Stack Engineer @ [Mazout Electric](https://mazoutelectric.com/robotic-actuators) — real-time IoT dashboards & vehicle control platforms |
+| **Role** | Sr. Software Engineer @ [Mazout Electric](https://mazoutelectric.com/robotic-actuators) — real-time dashboards, mobile applications & vehicle control platforms |
 | **Core stack** | Python, TypeScript, JavaScript, Node.js, React.js, Next.js |
 | **Mobile** | React Native — Android app development |
 | **Cloud & AI** | AWS (EC2, S3, IAM), GPU-backed vision pipelines (YOLO + VLA) |
 | **Connectivity** | MQTT, WebSockets, BLE — real-time device communication at scale |
 | **Impact** | Live systems processing 250–300 cmds/sec at 220ms latency across active vehicle fleets |
-| **Past stop** | Amity Innovation Incubator — Angular, Node.js, PHP, PostgreSQL |
 | **Principle** | Continuous, steady improvement beats a delayed "perfect" release |
 | **Off the clock** | Traveling — new places, new perspectives |
 
