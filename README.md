@@ -19,7 +19,7 @@
 
 | | |
 |:--|:--|
-| **Role** | SDE @ [Mazout](https://mazout.com) — building a software-driven EV motor controller |
+| **Role** | SDE @ [Mazout](https://mazoutelectric.com/robotic-actuators) — building a software-driven EV motor controller |
 | **Core stack** | TypeScript, JavaScript, Node.js, React, HTML/CSS |
 | **Cloud** | AWS (EC2) for production infrastructure |
 | **Hardware layer** | Arduino, SIMCom modules, motion sensors, braking systems |
