@@ -19,7 +19,7 @@
 
 | | |
 |:--|:--|
-| **Role** | Full Stack Engineer @ [Mazout Electric](https://mazout.com) — real-time IoT dashboards & vehicle control platforms |
+| **Role** | Full Stack Engineer @ [Mazout Electric](https://mazoutelectric.com/robotic-actuators) — real-time IoT dashboards & vehicle control platforms |
 | **Core stack** | Python, TypeScript, JavaScript, Node.js, React.js, Next.js |
 | **Mobile** | React Native — Android app development |
 | **Cloud & AI** | AWS (EC2, S3, IAM), GPU-backed vision pipelines (YOLO + VLA) |
