@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1321,100:00C896&height=230&section=header&text=Sarthak%20Mishra&fontSize=52&fontColor=F5F7FA&fontAlignY=38&animation=fadeIn&desc=Software%20Development%20Engineer%20%40%20Mazout&descAlignY=56&descSize=19&descColor=00E5A0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1321,100:00C896&height=230&section=header&text=Sarthak%20Mishra&fontSize=52&fontColor=F5F7FA&fontAlignY=38&animation=fadeIn&desc=Software%20Development%20Engineer%20&descAlignY=56&descSize=19&descColor=00E5A0" width="100%"/>
 
 <a href="https://sarthaksportfolio.netlify.app/"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=00E5A0&center=true&vCenter=true&width=700&lines=Building+a+software-defined+bridge+between+dreams+%26+reality;Python+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+React+%C2%B7+AWS;Web%2C+Cloud+%26+Android+(React+Native)+systems;Senior+Software+Engineer+%40+Mazout+Electric" alt="Typing SVG"/></a>
 
