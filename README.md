@@ -62,10 +62,6 @@ Full case studies and shipped work live on my **[portfolio](https://sarthaksport
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1321,100:00C896&height=3" width="100%"/>
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1321,100:00C896&height=3" width="100%"/>
-
 ## 🔗 Connect
 
 <div align="center">
