@@ -62,12 +62,6 @@ Full case studies and shipped work live on my **[portfolio](https://sarthaksport
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1321,100:00C896&height=3" width="100%"/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-code360&hide_border=true&background=0D1321&ring=00E5A0&fire=FFB800&currStreakLabel=00E5A0&sideLabels=F5F7FA&currStreakNum=F5F7FA&sideNums=F5F7FA&dates=8892B0" alt="streak stats" width="70%"/>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1321,100:00C896&height=3" width="100%"/>
