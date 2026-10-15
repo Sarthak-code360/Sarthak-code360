@@ -19,7 +19,7 @@
 
 | | |
 |:--|:--|
-| **Role** | Sr. Software Engineer @ [Mazout Electric](https://mazoutelectric.com/robotic-actuators) — real-time dashboards, mobile applications & vehicle control platforms |
+| **Role** | Sr. Software Engineer — full-stack web app/dashboard, mobile applications & vehicle control platforms |
 | **Core stack** | Python, TypeScript, JavaScript, Node.js, React.js, Next.js |
 | **Mobile** | React Native — Android app development |
 | **Cloud & AI** | AWS (EC2, S3, IAM), GPU-backed vision pipelines (YOLO + VLA) |
