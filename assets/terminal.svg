@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="940" height="566" viewBox="0 0 940 566" role="img" aria-label="sarthak@sarthak fastfetch">
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="524" viewBox="0 0 940 524" role="img" aria-label="sarthak@sarthak fastfetch">
 <style>
   text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace; font-size: 13.5px; }
   .ln { opacity: 0; animation: in .35s ease-out forwards; }
@@ -14,7 +14,7 @@
     <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
   </filter>
 </defs>
-<rect width="940" height="566" rx="12" fill="#0D1117" stroke="#30363D"/>
+<rect width="940" height="524" rx="12" fill="#0D1117" stroke="#30363D"/>
 <path d="M0 12a12 12 0 0 1 12-12h916a12 12 0 0 1 12 12v24H0z" fill="#161B22"/>
 <circle cx="22" cy="18" r="6" fill="#FF5F56"/><circle cx="42" cy="18" r="6" fill="#FFBD2E"/><circle cx="62" cy="18" r="6" fill="#27C93F"/>
 <text x="470.0" y="23" text-anchor="middle" fill="#7D8590">sarthak@sarthak: ~ (zsh)</text>
@@ -1315,26 +1315,22 @@
 </g>
 <text y="80.0" class="ln" style="animation-delay:0.15s"><tspan x="330" fill="#E23636" font-weight="700">sarthak</tspan><tspan x="387" fill="#E6EDF3">@</tspan><tspan x="396" fill="#E23636" font-weight="700">sarthak</tspan></text>
 <text y="99.5" class="ln" style="animation-delay:0.15s"><tspan x="330" fill="#7D8590">---------------</tspan></text>
-<text y="119.0" class="ln" style="animation-delay:0.22s"><tspan x="330" fill="#4FA3FF" font-weight="700">OS</tspan><tspan x="434" fill="#7D8590">:</tspan><tspan x="448" fill="#E6EDF3">Arch Linux x86_64 (Manjaro, but I say Arch btw)</tspan></text>
+<text y="119.0" class="ln" style="animation-delay:0.22s"><tspan x="330" fill="#4FA3FF" font-weight="700">OS</tspan><tspan x="434" fill="#7D8590">:</tspan><tspan x="448" fill="#E6EDF3">Arch Linux x86_64 (Manjaro, I say Arch btw)</tspan></text>
 <text y="138.5" class="ln" style="animation-delay:0.29s"><tspan x="330" fill="#4FA3FF" font-weight="700">Kernel</tspan><tspan x="434" fill="#7D8590">:</tspan><tspan x="448" fill="#E6EDF3">Linux 7.1.13-2-MANJARO</tspan></text>
 <text y="158.0" class="ln" style="animation-delay:0.36s"><tspan x="330" fill="#4FA3FF" font-weight="700">Shell</tspan><tspan x="434" fill="#7D8590">:</tspan><tspan x="448" fill="#E6EDF3">zsh 5.9.2</tspan></text>
-<text y="177.5" class="ln" style="animation-delay:0.43s"><tspan x="330" fill="#4FA3FF" font-weight="700">Role</tspan><tspan x="434" fill="#7D8590">:</tspan><tspan x="448" fill="#E6EDF3">Software Engineer, robotics + realtime systems</tspan></text>
+<text y="177.5" class="ln" style="animation-delay:0.43s"><tspan x="330" fill="#4FA3FF" font-weight="700">Role</tspan><tspan x="434" fill="#7D8590">:</tspan><tspan x="448" fill="#E6EDF3">Sr. Software Engineer</tspan></text>
 <text y="197.0" class="ln" style="animation-delay:0.50s"><tspan x="330" fill="#4FA3FF" font-weight="700">Uptime</tspan><tspan x="434" fill="#7D8590">:</tspan><tspan x="448" fill="#E6EDF3">2 yrs in prod, 0 days since last bug</tspan></text>
-<text y="216.5" class="ln" style="animation-delay:0.57s"><tspan x="330" fill="#4FA3FF" font-weight="700">Robots</tspan><tspan x="434" fill="#7D8590">:</tspan><tspan x="448" fill="#E6EDF3">humanoids, factory fleets, electric 3-wheelers</tspan></text>
-<text y="236.0" class="ln" style="animation-delay:0.64s"><tspan x="330" fill="#4FA3FF" font-weight="700">Brain</tspan><tspan x="434" fill="#7D8590">:</tspan><tspan x="448" fill="#E6EDF3">Qwen3.8-27B VLM on llama.cpp / vLLM</tspan></text>
-<text y="255.5" class="ln" style="animation-delay:0.71s"><tspan x="330" fill="#4FA3FF" font-weight="700">Local AI</tspan><tspan x="434" fill="#7D8590">:</tspan><tspan x="448" fill="#E6EDF3">GGUF quants, llama.cpp, whisper.cpp, offline</tspan></text>
-<text y="275.0" class="ln" style="animation-delay:0.78s"><tspan x="330" fill="#4FA3FF" font-weight="700">Langs</tspan><tspan x="434" fill="#7D8590">:</tspan><tspan x="448" fill="#E6EDF3">TypeScript, Python, JavaScript, C++, Rust, Zig</tspan></text>
-<text y="294.5" class="ln" style="animation-delay:0.85s"><tspan x="330" fill="#4FA3FF" font-weight="700">App</tspan><tspan x="434" fill="#7D8590">:</tspan><tspan x="448" fill="#E6EDF3">React, Next.js, React Native, Electron</tspan></text>
-<text y="314.0" class="ln" style="animation-delay:0.92s"><tspan x="330" fill="#4FA3FF" font-weight="700">Backend</tspan><tspan x="434" fill="#7D8590">:</tspan><tspan x="448" fill="#E6EDF3">Node.js, Express, Flask, REST, Postgres, Redis</tspan></text>
-<text y="333.5" class="ln" style="animation-delay:0.99s"><tspan x="330" fill="#4FA3FF" font-weight="700">Cloud</tspan><tspan x="434" fill="#7D8590">:</tspan><tspan x="448" fill="#E6EDF3">AWS, GCP, Docker, Nginx, GitHub Actions</tspan></text>
-<text y="353.0" class="ln" style="animation-delay:1.06s"><tspan x="330" fill="#4FA3FF" font-weight="700">Wire</tspan><tspan x="434" fill="#7D8590">:</tspan><tspan x="448" fill="#E6EDF3">MQTT, WebSockets, BLE, QUIC, WebRTC</tspan></text>
-<text y="372.5" class="ln" style="animation-delay:1.13s"><tspan x="330" fill="#4FA3FF" font-weight="700">Edge</tspan><tspan x="434" fill="#7D8590">:</tspan><tspan x="448" fill="#E6EDF3">STM32MP25, Yocto, OpenCV, YOLO</tspan></text>
-<text y="392.0" class="ln" style="animation-delay:1.20s"><tspan x="330" fill="#4FA3FF" font-weight="700">Keys</tspan><tspan x="434" fill="#7D8590">:</tspan><tspan x="448" fill="#E6EDF3">BIP-39 mnemonics, BIP-32 HD derivation, mTLS</tspan></text>
-<text y="411.5" class="ln" style="animation-delay:1.27s"><tspan x="330" fill="#4FA3FF" font-weight="700">Shipped</tspan><tspan x="434" fill="#7D8590">:</tspan><tspan x="448" fill="#E6EDF3">pip install robofleet</tspan></text>
-<text y="431.0" class="ln" style="animation-delay:1.34s"><tspan x="330" fill="#4FA3FF" font-weight="700">Fleet I/O</tspan><tspan x="434" fill="#7D8590">:</tspan><tspan x="448" fill="#E6EDF3">250-300 cmds/sec @ 220ms</tspan></text>
-<text y="450.5" class="ln" style="animation-delay:1.41s"><tspan x="330" fill="#4FA3FF" font-weight="700">Memory</tspan><tspan x="434" fill="#7D8590">:</tspan><tspan x="448" fill="#E6EDF3">8.84 / 15.28 GiB (mostly Chrome)</tspan></text>
-<text y="470.0" class="ln" style="animation-delay:1.48s"><tspan x="330" fill="#4FA3FF" font-weight="700">Spidey-sense</tspan><tspan x="434" fill="#7D8590">:</tspan><tspan x="448" fill="#E6EDF3">tingling. prod is quiet. too quiet.</tspan></text>
-<g class="ln" style="animation-delay:1.55s"><rect x="330" y="487.6" width="26" height="15" fill="#484F58"/><rect x="356" y="487.6" width="26" height="15" fill="#E23636"/><rect x="382" y="487.6" width="26" height="15" fill="#3FB950"/><rect x="408" y="487.6" width="26" height="15" fill="#D29922"/><rect x="434" y="487.6" width="26" height="15" fill="#4FA3FF"/><rect x="460" y="487.6" width="26" height="15" fill="#BC8CFF"/><rect x="486" y="487.6" width="26" height="15" fill="#39C5CF"/><rect x="512" y="487.6" width="26" height="15" fill="#E6EDF3"/></g>
-<text x="28" y="540.5"><tspan fill="#E23636" font-weight="700">sarthak@sarthak</tspan><tspan fill="#E6EDF3"> ~ $ git push origin main --force</tspan><tspan fill="#7D8590">  # with great power...</tspan></text>
-<rect class="cur" x="597.1" y="527.5" width="8" height="16" fill="#E6EDF3"/>
+<text y="216.5" class="ln" style="animation-delay:0.57s"><tspan x="330" fill="#4FA3FF" font-weight="700">Builds</tspan><tspan x="434" fill="#7D8590">:</tspan><tspan x="448" fill="#E6EDF3">robot brains, autonomous factories, EV teleop</tspan></text>
+<text y="236.0" class="ln" style="animation-delay:0.64s"><tspan x="330" fill="#4FA3FF" font-weight="700">Brain</tspan><tspan x="434" fill="#7D8590">:</tspan><tspan x="448" fill="#E6EDF3">Qwen3.8-27B VLM, llama.cpp, vLLM</tspan></text>
+<text y="255.5" class="ln" style="animation-delay:0.71s"><tspan x="330" fill="#4FA3FF" font-weight="700">Local AI</tspan><tspan x="434" fill="#7D8590">:</tspan><tspan x="448" fill="#E6EDF3">GGUF quants, whisper.cpp, offline inference</tspan></text>
+<text y="275.0" class="ln" style="animation-delay:0.78s"><tspan x="330" fill="#4FA3FF" font-weight="700">Langs</tspan><tspan x="434" fill="#7D8590">:</tspan><tspan x="448" fill="#E6EDF3">TypeScript, Python, C++, Rust</tspan></text>
+<text y="294.5" class="ln" style="animation-delay:0.85s"><tspan x="330" fill="#4FA3FF" font-weight="700">Stack</tspan><tspan x="434" fill="#7D8590">:</tspan><tspan x="448" fill="#E6EDF3">Node.js, React, React Native, Electron</tspan></text>
+<text y="314.0" class="ln" style="animation-delay:0.92s"><tspan x="330" fill="#4FA3FF" font-weight="700">Cloud</tspan><tspan x="434" fill="#7D8590">:</tspan><tspan x="448" fill="#E6EDF3">AWS, GCP, Docker, GitHub Actions</tspan></text>
+<text y="333.5" class="ln" style="animation-delay:0.99s"><tspan x="330" fill="#4FA3FF" font-weight="700">Wire</tspan><tspan x="434" fill="#7D8590">:</tspan><tspan x="448" fill="#E6EDF3">MQTT, WebSockets, BLE, REST, QUIC</tspan></text>
+<text y="353.0" class="ln" style="animation-delay:1.06s"><tspan x="330" fill="#4FA3FF" font-weight="700">Edge</tspan><tspan x="434" fill="#7D8590">:</tspan><tspan x="448" fill="#E6EDF3">ARM boards, Yocto, OpenCV, YOLO</tspan></text>
+<text y="372.5" class="ln" style="animation-delay:1.13s"><tspan x="330" fill="#4FA3FF" font-weight="700">Shipped</tspan><tspan x="434" fill="#7D8590">:</tspan><tspan x="448" fill="#E6EDF3">pip install robofleet</tspan></text>
+<text y="392.0" class="ln" style="animation-delay:1.20s"><tspan x="330" fill="#4FA3FF" font-weight="700">Spidey-sense</tspan><tspan x="434" fill="#7D8590">:</tspan><tspan x="448" fill="#E6EDF3">tingling. prod is quiet. too quiet.</tspan></text>
+<g class="ln" style="animation-delay:1.27s"><rect x="330" y="409.6" width="26" height="15" fill="#484F58"/><rect x="356" y="409.6" width="26" height="15" fill="#E23636"/><rect x="382" y="409.6" width="26" height="15" fill="#3FB950"/><rect x="408" y="409.6" width="26" height="15" fill="#D29922"/><rect x="434" y="409.6" width="26" height="15" fill="#4FA3FF"/><rect x="460" y="409.6" width="26" height="15" fill="#BC8CFF"/><rect x="486" y="409.6" width="26" height="15" fill="#39C5CF"/><rect x="512" y="409.6" width="26" height="15" fill="#E6EDF3"/></g>
+<text x="28" y="498.4"><tspan fill="#E23636" font-weight="700">sarthak@sarthak</tspan><tspan fill="#E6EDF3"> ~ $ git push origin main --force</tspan><tspan fill="#7D8590">  # with great power...</tspan></text>
+<rect class="cur" x="597.1" y="485.4" width="8" height="16" fill="#E6EDF3"/>
 </svg>
