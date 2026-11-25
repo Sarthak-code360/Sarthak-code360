@@ -23,10 +23,50 @@ sarthak@sarthak ~ $ systemctl --user list-units --state=running
   <img src="https://skillicons.dev/icons?i=ts,py,cpp,rust,react,nodejs,electron,aws,gcp,docker,githubactions,linux,arch&theme=dark" alt="stack"/>
 </p>
 
-```diff
-+ with great sudo comes great responsibility
-- sleep schedule: 404
+```console
+sarthak@sarthak ~ $ spidey-sense --status
 ```
+
+```diff
++ robots ................... moving
++ vision model ............. confident (verified anyway)
++ control loop ............. 220ms
++ coffee ................... critical mass
+- sleep schedule ........... 404 not found
+- "5 min fix" .............. day 3
+- the model ................ tried to assign a task to a robot it imagined. validator said no.
+```
+
+```console
+sarthak@sarthak ~ $ git log --oneline -5
+```
+
+```text
+e1f3a9c (HEAD -> main) fix: robot no longer accepts tasks at 3% battery out of pure optimism
+7b2d04e feat: latency now lower than my reply time on Slack
+c9a1f77 chore: renamed final_v2_REAL_final.py to something I won't regret
+3e8b521 fix: it was DNS. it's always DNS.
+0000001 init: got bitten by a radioactive bug, started writing code
+```
+
+```console
+sarthak@sarthak ~ $ crontab -l
+```
+
+```bash
+0  9  * * 1-5   coffee && ship
+*/5 * * * *     check_robot_is_still_where_i_left_it
+0  3  * * *     prod_incident   # never scheduled, always on time
+@reboot         blame_the_network
+```
+
+```console
+sarthak@sarthak ~ $ cat principles.txt
+```
+
+> With great `sudo` comes great responsibility.
+>
+> Continuous, steady improvement beats a delayed "perfect" release.
 
 <div align="center">
 
@@ -37,4 +77,9 @@ sarthak@sarthak ~ $ systemctl --user list-units --state=running
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B4C,100:B11313&height=90&section=footer" width="100%"/>
+```console
+sarthak@sarthak ~ $ exit
+logout: thwip.
+```
+
+<img src="assets/footer.svg" alt="tmux status bar" width="100%"/>

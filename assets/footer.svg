@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="34" viewBox="0 0 940 34" role="img" aria-label="tmux status bar">
+<style>
+  text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace; font-size: 13px; dominant-baseline: middle; }
+  .blink { animation: b 1.2s steps(1) infinite; }
+  @keyframes b { 50% { opacity: .25; } }
+</style>
+<rect width="940" height="34" rx="6" fill="#161B22" stroke="#30363D"/>
+<path d="M6 0h170l14 17-14 17H6a6 6 0 0 1-6-6V6a6 6 0 0 1 6-6z" fill="#E23636"/>
+<text x="16" y="18" fill="#0D1117" font-weight="700">sarthak@sarthak</text>
+<text x="206" y="18" fill="#7D8590">0:zsh  1:robots  <tspan fill="#E6EDF3" font-weight="700">2:prod*</tspan>  3:coffee</text>
+<path d="M934 0H640l-14 17 14 17h294a6 6 0 0 0 6-6V6a6 6 0 0 0-6-6z" fill="#0D1B4C"/>
+<circle class="blink" cx="656" cy="17" r="4" fill="#E23636"/>
+<text x="668" y="18" fill="#E6EDF3">spidey-sense: on</text>
+<text x="800" y="18" fill="#4FA3FF">│ 220ms │ thwip</text>
+</svg>
