@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B11313,100:0D1B4C&height=180&section=header&text=Sarthak%20Mishra&fontSize=48&fontColor=F5F7FA&fontAlignY=36&animation=fadeIn&desc=Sr.%20Software%20Engineer&descAlignY=58&descSize=18&descColor=F5F7FA" width="100%"/>
-
-<a href="https://sarthaksportfolio.netlify.app/"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=2600&pause=700&color=E23636&center=true&vCenter=true&width=700&lines=robots+see+%E2%86%92+server+thinks+%E2%86%92+robots+move;vision+models+that+drive+real+hardware;realtime+control+%40+220ms;it%27s+always+DNS" alt="typing"/></a>
+<img src="assets/header.svg" alt="Sarthak Mishra, Sr. Software Engineer" width="100%"/>
 
 <img src="assets/terminal.svg" alt="sarthak@sarthak fastfetch" width="100%"/>
 
